@@ -1,6 +1,6 @@
 # 👩🏻‍💻 emmanuelmarllon
 
-**`Estudante de Front-end`**
+**`Estudante Full Stack`**
 
 Me chamo Marlon Emanuel Evangelino Lacerda, tenho 16 anos e sou natural de Ibirité, MG. Ainda estou concluindo o ensino fundamental, mas sou apaixonado por tecnologia e estou começando minha jornada no mundo da programação. Atualmente, compartilho minhas ideias e aprendizados no meu Instagram, '[@emmanuelmarllon](https://www.instagram.com/emmanuelmarllon/)', e estou explorando possibilidades de criar projetos aqui no GitHub
 
