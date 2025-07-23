@@ -22,14 +22,15 @@
 
 ---
 
-## Tecnologias e linguagens 💻
+## 💻 Tecnologias e linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,mongoose)](https://skillicons.dev)
+### 🚀 Biblioteca e Framework
+[![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
