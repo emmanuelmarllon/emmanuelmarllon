@@ -22,14 +22,18 @@
 
 ---
 
-## 💻 Tecnologias e linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb)](https://skillicons.dev)
+## 💻 Linguagens e tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs)](https://skillicons.dev)
 
 ### 🚀 Biblioteca e Framework
 [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
 
+### 🗃️ Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
 
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
