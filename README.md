@@ -73,15 +73,15 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarlonEmanuel.MarlonEmanuel&left_color=darkviolet&right_color=orchid" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emmanuelmarllon.emmanuelmarllon&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonEmanuel&bg_color=0d1117&color=00ffe4&line=00bcd4&point=00e6cb&area=true&area_color=00ffe4&hide_border=true" alt="Gráfico de Atividades GitHub de Marlon Emanuel" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelmarllon&bg_color=0d1117&color=00ffe4&line=00bcd4&point=00e6cb&area=true&area_color=00ffe4&hide_border=true" alt="Gráfico de Atividades GitHub de Marlon Emanuel" style="max-width: 100%; height: auto;" />
 
-  <img src="https://streak-stats.demolab.com?user=MarlonEmanuel&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" style="margin-top: 10px;" /> <br/>
+  <img src="https://streak-stats.demolab.com?useremmanuelmarllon&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" style="margin-top: 10px;" /> <br/>
   
-  <img src="https://github-profile-trophy.vercel.app?username=MarlonEmanuel&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" style="margin-top: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app?username=emmanuelmarllon&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" style="margin-top: 10px;" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffe4,100:10002B" />
