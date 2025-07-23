@@ -1,86 +1,87 @@
-# 👩🏻‍💻 emmanuelmarllon
+# 🧑🏽‍💻 E aí, eu sou o Marlon Emanuel!
 
-**`Estudante Full Stack`**
+<p align="left">
+  Estudante <strong>Full Stack</strong> de 16 anos, apaixonado por tecnologia e movido por desafios reais. <br>
+  Estou sempre buscando aprender mais e transformar ideias em código. Atualmente estudo <strong style="color: #61DBFB;">React</strong>, <strong style="color: #68A063;">Node.js</strong>, <strong style="color: #4DB33D;">Mongo</strong><strong style="color: #000000;">DB</strong>, <strong><span style="color: #306998;">Pyt</span><span style="color: #FFD43B;">hon</span></strong>, <strong style="color: #F0DB4F;">JavaScript</strong>, <strong style="color: #e34c26;">HTML</strong> e <strong style="color: #2965f1;">CSS</strong>.</p>
 
-Me chamo Marlon Emanuel Evangelino Lacerda, tenho 16 anos e sou natural de Ibirité, MG. Ainda estou concluindo o ensino fundamental, mas sou apaixonado por tecnologia e estou começando minha jornada no mundo da programação. Atualmente, compartilho minhas ideias e aprendizados no meu Instagram, '[@emmanuelmarllon](https://www.instagram.com/emmanuelmarllon/)', e estou explorando possibilidades de criar projetos aqui no GitHub
+## Sobre mim
 
-<a href="https://github.com/emmanuelmarllon?tab=repositories&sort=stargazers">
-<img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/emmanuelmarllon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-</a>
-<a href="https://github.com/emmanuelmarllon?tab=followers">
-<img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/emmanuelmarllon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-</a>
+- 🎓 Estudante focado na carreira de desenvolvedor Full Stack
+- 📚 Aprendendo e aplicando: React, Node.js, JavaScript, MongoDB, Python, HTML e CSS
+- 🚀 Participante da Jornada Full Stack(Hashtag Programação) e Imerssao front end(Alura)
+- 💡 Projetos pessoais, desafios práticos e criação de sites para portfólio
+- 🧠 Buscando evolução constante, com foco em escrever código limpo e funcional
+- 👾 16 anos, mas já mergulhado no mundo da programação
 
-</p>
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Tecnologias e linguagens 💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb)](https://skillicons.dev)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-<br/>
-<br/>
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,mongoose)](https://skillicons.dev)
 
-### 📊 Estatísticas
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emmanuelmarllon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmarllon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
 
+  <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
+  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+    <img 
+      src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+      alt="ilustração de um computador" 
+      style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
+    >
+  </div>
+
+  <!-- Texto com largura flexível, alinhado à esquerda -->
+  <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
+    <p>
+      Desenvolvo aplicações web utilizando <strong>React</strong>, <strong>Node.js</strong>, <strong>JavaScript</strong> e banco de dados <strong>MongoDB</strong>. <br><br>
+      Tenho explorado projetos práticos, desafios e construções completas com foco em boas práticas e aprendizado constante.<br><br>
+      Também curto automatizar tarefas com <strong>Python</strong> e caprichar no <strong>visual com HTML + CSS</strong>. Tudo isso pra unir funcionalidade com um design massa!
+    </p>
+  </div>
+
+</div>
+
+<hr>
+
+<p align="left">
+  Bora trocar ideia? Me chama aí 💬✨
 </p>
+
+<p align="left">
+  <a href="mailto:marlllonemanuel@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marlllonemanuel/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/+553197109413" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarlonEmanuel.MarlonEmanuel&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonEmanuel&bg_color=0d1117&color=00ffe4&line=00bcd4&point=00e6cb&area=true&area_color=00ffe4&hide_border=true" alt="Gráfico de Atividades GitHub de Marlon Emanuel" style="max-width: 100%; height: auto;" />
+
+  <img src="https://streak-stats.demolab.com?user=MarlonEmanuel&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" style="margin-top: 10px;" /> <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app?username=MarlonEmanuel&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" style="margin-top: 10px;" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffe4,100:10002B" />
