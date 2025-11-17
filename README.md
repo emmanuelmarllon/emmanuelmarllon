@@ -22,16 +22,35 @@
 
 ---
 
-## 💻 Linguagens e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs)](https://skillicons.dev)
+## 🎨 Front-end  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss)](https://skillicons.dev)
 
-### 🚀 Biblioteca e Framework
-[![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
+- Domínio de React (experiência com Vite)
+- Migrando projetos para Next.js
+- Tailwind CSS e TypeScript na prática
 
-### 🗃️ Banco de Dados
+---
+
+## 🧠 Back-end  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
+
+- Node.js + Express
+- Prisma ORM
+- Autenticação com JWT (aprendendo e implementando)
+
+---
+
+## 🗃 Banco de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+---
+
+## 🔗 Integração de APIs  
+- Axios para comunicação entre front-end e back-end
+
+---
+
+## 🛠 Ferramentas  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
