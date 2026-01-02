@@ -1,111 +1,72 @@
-# 🧑🏽‍💻 E aí, eu sou o Marlon Emanuel!
+# Marlon Emanuel
 
-<p align="left">
-  Estudante <strong>Full Stack</strong> de 16 anos, apaixonado por tecnologia e movido por desafios reais. <br>
-  Estou sempre buscando aprender mais e transformar ideias em código. Atualmente estudo <strong style="color: #61DBFB;">React</strong>, <strong style="color: #68A063;">Node.js</strong>, <strong style="color: #4DB33D;">Mongo</strong><strong style="color: #000000;">DB</strong>, <strong><span style="color: #306998;">Pyt</span><span style="color: #FFD43B;">hon</span></strong>, <strong style="color: #F0DB4F;">JavaScript</strong>, <strong style="color: #e34c26;">HTML</strong> e <strong style="color: #2965f1;">CSS</strong>.</p>
+Desenvolvedor Full Stack em formação, com foco em aplicações web modernas utilizando Next.js.  
+Atualmente construo projetos reais como dashboards, SaaS, landing pages e sistemas com autenticação, sempre priorizando organização, clareza e boas práticas.
+
+---
 
 ## Sobre mim
 
-- 🎓 Estudante focado na carreira de desenvolvedor Full Stack
-- 📚 Aprendendo e aplicando: React, Node.js, JavaScript, MongoDB, Python, HTML e CSS
-- 🚀 Participante da Jornada Full Stack(Hashtag Programação) e Imerssao front end(Alura)
-- 💡 Projetos pessoais, desafios práticos e criação de sites para portfólio
-- 🧠 Buscando evolução constante, com foco em escrever código limpo e funcional
-- 👾 16 anos, mas já mergulhado no mundo da programação
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-</picture>
+- Desenvolvedor Full Stack com foco em aplicações web completas
+- Experiência prática com sistemas de autenticação, dashboards e APIs
+- Interesse em arquitetura simples, escalável e bem organizada
+- Aprendizado contínuo aplicado diretamente em projetos reais
 
 ---
 
-## 🎨 Front-end  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss)](https://skillicons.dev)
+## Stack Principal
 
-- Domínio de React (experiência com Vite)
-- Migrando projetos para Next.js
-- Tailwind CSS e TypeScript na prática
+### Front-end
+![Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind)
 
----
-
-## 🧠 Back-end  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
-
-- Node.js + Express
-- Prisma ORM
-- Autenticação com JWT (aprendendo e implementando)
+- Next.js (App Router) como framework principal
+- React com componentização e hooks
+- TypeScript aplicado em múltiplos arquivos
+- Tailwind CSS para estilização consistente e produtiva
 
 ---
 
-## 🗃 Banco de Dados  
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+### Back-end
+![Skills](https://skillicons.dev/icons?i=nodejs)
+
+- Back-end integrado ao Next.js (Route Handlers)
+- Criação de APIs REST
+- Middlewares, validações e autenticação
+- Autenticação com JWT e controle de acesso
 
 ---
 
-## 🔗 Integração de APIs  
-- Axios para comunicação entre front-end e back-end
+### Banco de Dados
+![Skills](https://skillicons.dev/icons?i=postgres)
+
+- PostgreSQL como banco principal
+- Drizzle ORM para modelagem e queries
+- Experiência prévia com Prisma ORM
+- Modelagem relacional e queries mais complexas
 
 ---
 
-## 🛠 Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+## O que estou construindo agora
 
+- Aplicações SaaS completas com Next.js
+- Dashboards com autenticação e controle de usuários
+- Integração front-end ↔ back-end usando Axios e Fetch
+- Projetos focados em fluxo real de usuário e organização de código
 
+---
 
-<!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+## Ferramentas & Práticas
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)
 
-  <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <img 
-      src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-      alt="ilustração de um computador" 
-      style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
-    >
-  </div>
+- Git com branches e commits organizados
+- Deploy e gerenciamento de variáveis de ambiente
+- Uso de Docker em projetos
+- ESLint e Prettier para padronização de código
 
-  <!-- Texto com largura flexível, alinhado à esquerda -->
-  <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
-    <p>
-      Desenvolvo aplicações web utilizando <strong>React</strong>, <strong>Node.js</strong>, <strong>JavaScript</strong> e banco de dados <strong>MongoDB</strong>. <br><br>
-      Tenho explorado projetos práticos, desafios e construções completas com foco em boas práticas e aprendizado constante.<br><br>
-      Também curto automatizar tarefas com <strong>Python</strong> e caprichar no <strong>visual com HTML + CSS</strong>. Tudo isso pra unir funcionalidade com um design massa!
-    </p>
-  </div>
+---
 
-</div>
+## Contato
 
-<hr>
-
-<p align="left">
-  Bora trocar ideia? Me chama aí 💬✨
-</p>
-
-<p align="left">
-  <a href="mailto:marlllonemanuel@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marlllonemanuel/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/+553197109413" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emmanuelmarllon.emmanuelmarllon&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelmarllon&bg_color=0d1117&color=00ffe4&line=00bcd4&point=00e6cb&area=true&area_color=00ffe4&hide_border=true" alt="Gráfico de Atividades GitHub de Marlon Emanuel" style="max-width: 100%; height: auto;" />
-
-  <img src="https://streak-stats.demolab.com?user=emmanuelmarllon&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" style="margin-top: 10px;" /> <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app?username=emmanuelmarllon&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" style="margin-top: 10px;" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffe4,100:10002B" />
+- 📧 Email: marlllonemanuel@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/marlllonemanuel/  
+- 💬 WhatsApp: https://wa.me/553197109413
