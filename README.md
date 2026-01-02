@@ -13,7 +13,7 @@ Atualmente construo projetos reais como dashboards, SaaS, landing pages e sistem
 - Aprendizado contínuo aplicado diretamente em projetos reais
 
 ---
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg"> <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg"> </picture>
 ## Stack Principal
 
 ### Front-end
