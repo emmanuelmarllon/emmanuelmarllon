@@ -17,12 +17,12 @@ Atualmente construo projetos reais como dashboards, SaaS, landing pages e sistem
 ## Stack Principal
 
 ### Front-end
-![Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind)
+![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)
 
-- Next.js (App Router) como framework principal
-- React com componentização e hooks
-- TypeScript aplicado em múltiplos arquivos
-- Tailwind CSS para estilização consistente e produtiva
+- Next.js como framework principal
+- React com hooks e componentização
+- TypeScript aplicado em projetos reais
+- Tailwind CSS para estilização
 
 ---
 
